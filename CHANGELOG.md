@@ -3,7 +3,7 @@
 ## 2.2.0
 
 *This update was a lot of work. Please consider supporting me*
-*on [**Patreon**](https://www.patreon.com/musicpresence)* ❤️❤️❤️
+*on [**Patreon**](https://www.patreon.com/musicpresence)*
 
 ---
 
@@ -203,7 +203,7 @@ cryptographically strong authentication of the source.
   in the same directory as the launcher, while `--local-launch`
   launches any installation in the local app data directory.
 
-Wow, you have read until the end! Here is a cookie for you. 🍪
+Wow, you have read until the end! Here is a cookie for you.
 
 ## 2.1.3
 
