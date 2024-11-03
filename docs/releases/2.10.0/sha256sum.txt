@@ -1,0 +1,2 @@
+0eb99be9b87070c7d4b854088965192397a69c9a3126cc9ce13aec1ccebcb688 *musicpresence-2.10.0-windows-x64.zip
+0eb99be9b87070c7d4b854088965192397a69c9a3126cc9ce13aec1ccebcb688 *musicpresence-legacy-2.10.0-win64.zip
